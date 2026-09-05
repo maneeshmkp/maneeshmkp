@@ -1,5 +1,62 @@
 # 💫 About Me:
-Hi there! I'm Maneesh Kumar, a  BTech student in Information Technology at Indian Institute of Information Technology Sonepat. I am passionate about software development and solving complex problems through optimized algorithms.<br><br>With hands-on experience in C++, Python, and React.js, I specialize in building high-performance applications and exploring fields like Data Structures and Algorithms, Real-Time Systems, and Web Development.<br><br>💻 What I’ve Been Up To:<br><br>DSA Enthusiast: Solved over 500+ DSA problems across platforms like LeetCode, GeeksforGeeks, and Coding Ninjas, earning multiple achievement badges.<br>Projects: Developed real-world applications, including a Real-Time Weather Monitoring Dashboard, an Employee Management System, and a Rule Engine with AST.<br>Internships: Worked as a C++ Developer at Internship Studio, where I optimized algorithms and built scalable solutions.<br>🚀 What Drives Me:<br>I enjoy tackling challenging projects that require efficient algorithm design and real-time data handling. My ultimate goal is to create impactful, scalable systems that solve real-world problems while enhancing performance and user experience.<br><br>📚 Current Interests:<br><br>Low-latency trading systems<br>Advanced graph algorithms<br>Full-stack web development using React.js and Tailwind CSS<br>📫 Let’s Connect:<br>Feel free to explore my projects, suggest collaborations, or drop by for a tech discussion!
+Hi there! I'm Maneesh Kumar, a Software Engineer and B.Tech graduate in Information Technology from the Indian Institute of Information Technology, Sonepat, with a strong passion for building scalable software systems and solving complex problems through efficient algorithms.
+
+💻 **What I Do**
+
+I work across backend engineering, full-stack development, AI-powered applications, and problem solving. My core programming languages include C++, Python, Java, JavaScript, and SQL, with hands-on experience building applications using React.js, Next.js, Node.js, Express.js, MongoDB, PostgreSQL, Redis, and AWS.
+
+🚀 **Professional Experience**
+
+**Software Development Engineer (SDE) Intern — Xelron**
+
+* Worked on evaluating and validating AI-generated coding solutions through rigorous, LLM-free manual evaluation.
+* Achieved 95%+ evaluation consistency by analyzing execution traces, outputs, implementation behavior, testing coverage, and error handling.
+* Improved bug detection efficiency by 35%+ and reduced low-quality task submissions by 25% through structured assessment and prompt feasibility analysis.
+
+**Software Engineer Intern — Internship Studio**
+
+* Developed and optimized backend business logic in C++ using STL, hash maps, vectors, priority queues, and recursion.
+* Reduced average execution time by approximately 30% through algorithmic and implementation-level optimizations.
+* Refactored monolithic logic into modular, testable components using OOP principles and collaborated through Git-based Agile workflows.
+
+🧠 **Projects**
+
+**AI-Powered Travel Itinerary Planner**
+
+* Built a scalable MERN-based full-stack application with React, Node.js, Express, and MongoDB.
+* Designed hierarchical itinerary data models and optimized REST APIs, search, filtering, and pagination.
+* Implemented secure JWT/bcrypt authentication.
+* Integrated OpenAI/Gemini-powered itinerary generation with structured outputs, fallback handling, and API reliability mechanisms.
+
+🏆 **Problem Solving & Achievements**
+
+* Solved **1000+ DSA problems** across LeetCode, CodeChef, and GeeksforGeeks.
+* Achieved **Top 1% ranking** across competitive programming platforms.
+* **LeetCode:** 1669 rating | Global Rank 2945 in Biweekly Contest 159 | 800+ problems solved.
+* **CodeChef:** 1553 rating (2 Stars) | Global Rank 42 in Starters 189.
+* **National Semi-Finalist:** Flipkart GRiD 7.0 & Unstop Talent Park 2025.
+* **AWS Cloud Foundations Certified**, with hands-on exposure to EC2, IAM, S3, and CloudFront.
+
+⚙️ **Technical Interests**
+
+I'm particularly interested in:
+
+* Data Structures & Algorithms
+* Backend & Distributed Systems
+* Low-latency and performance-oriented systems
+* AI/LLM-powered applications
+* Cloud infrastructure & scalable architectures
+* Full-stack development
+* System design and real-world software engineering
+
+🎯 **What Drives Me**
+
+I enjoy working on technically challenging problems where performance, scalability, reliability, and clean architecture matter. I'm especially interested in building production-grade systems that combine strong engineering fundamentals with modern AI and cloud technologies.
+
+📫 **Let's Connect**
+
+Feel free to explore my projects, discuss software engineering, collaborate on interesting ideas, or connect for a technical discussion!
+
 
 
 ## 🌐 Socials:
