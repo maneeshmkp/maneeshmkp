@@ -1,88 +1,270 @@
-# 💫 About Me:
-Hi there! I'm Maneesh Kumar, a Software Engineer and B.Tech graduate in Information Technology from the Indian Institute of Information Technology, Sonepat, with a strong passion for building scalable software systems and solving complex problems through efficient algorithms.
+# 👋 Hi, I'm Maneesh Kumar
 
-💻 **What I Do**
+### Software Development Engineer • AI/LLM Engineering • Backend & Full-Stack Development
 
-I work across backend engineering, full-stack development, AI-powered applications, and problem solving. My core programming languages include C++, Python, Java, JavaScript, and SQL, with hands-on experience building applications using React.js, Next.js, Node.js, Express.js, MongoDB, PostgreSQL, Redis, and AWS.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=750&lines=Building+Scalable+Software+Systems;Engineering+AI-Powered+Applications;Exploring+Backend+%26+Distributed+Systems;Solving+Complex+Problems+with+Algorithms" alt="Typing SVG" />
+</p>
 
-🚀 **Professional Experience**
-
-**Software Development Engineer (SDE) Intern — Xelron**
-
-* Worked on evaluating and validating AI-generated coding solutions through rigorous, LLM-free manual evaluation.
-* Achieved 95%+ evaluation consistency by analyzing execution traces, outputs, implementation behavior, testing coverage, and error handling.
-* Improved bug detection efficiency by 35%+ and reduced low-quality task submissions by 25% through structured assessment and prompt feasibility analysis.
-
-**Software Engineer Intern — Internship Studio**
-
-* Developed and optimized backend business logic in C++ using STL, hash maps, vectors, priority queues, and recursion.
-* Reduced average execution time by approximately 30% through algorithmic and implementation-level optimizations.
-* Refactored monolithic logic into modular, testable components using OOP principles and collaborated through Git-based Agile workflows.
-
-🧠 **Projects**
-
-**AI-Powered Travel Itinerary Planner**
-
-* Built a scalable MERN-based full-stack application with React, Node.js, Express, and MongoDB.
-* Designed hierarchical itinerary data models and optimized REST APIs, search, filtering, and pagination.
-* Implemented secure JWT/bcrypt authentication.
-* Integrated OpenAI/Gemini-powered itinerary generation with structured outputs, fallback handling, and API reliability mechanisms.
-
-🏆 **Problem Solving & Achievements**
-
-* Solved **1000+ DSA problems** across LeetCode, CodeChef, and GeeksforGeeks.
-* Achieved **Top 1% ranking** across competitive programming platforms.
-* **LeetCode:** 1669 rating | Global Rank 2945 in Biweekly Contest 159 | 800+ problems solved.
-* **CodeChef:** 1553 rating (2 Stars) | Global Rank 42 in Starters 189.
-* **National Semi-Finalist:** Flipkart GRiD 7.0 & Unstop Talent Park 2025.
-* **AWS Cloud Foundations Certified**, with hands-on exposure to EC2, IAM, S3, and CloudFront.
-
-⚙️ **Technical Interests**
-
-I'm particularly interested in:
-
-* Data Structures & Algorithms
-* Backend & Distributed Systems
-* Low-latency and performance-oriented systems
-* AI/LLM-powered applications
-* Cloud infrastructure & scalable architectures
-* Full-stack development
-* System design and real-world software engineering
-
-🎯 **What Drives Me**
-
-I enjoy working on technically challenging problems where performance, scalability, reliability, and clean architecture matter. I'm especially interested in building production-grade systems that combine strong engineering fundamentals with modern AI and cloud technologies.
-
-📫 **Let's Connect**
-
-Feel free to explore my projects, discuss software engineering, collaborate on interesting ideas, or connect for a technical discussion!
-
-
-
-## 🌐 Socials:
-[![Bluesky](https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=%23FFFFFF)](https://bsky.app/profile/maneeshmkp) [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/maneeshmkp) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/maneeshmkp38) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/maneesh.prajapati_38) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/maneesh-kumar-520390257) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/ManeeshKum14044) 
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat-square&logo=vercel&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=flat-square&logo=chart.js&logoColor=white) ![Context-API](https://img.shields.io/badge/Context--Api-000000?style=flat-square&logo=react) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat-square&logo=flask&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=flat-square&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=flat-square&logo=vite&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=flat-square&logo=vuedotjs&logoColor=%234FC08D) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat-square&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat-square&logo=sqlite&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat-square&logo=Canva&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=maneeshmkp&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=maneeshmkp&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=maneeshmkp&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=maneeshmkp&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=maneeshmkp&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<p align="center">
+  <a href="YOUR_LINKEDIN_URL">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="YOUR_LEETCODE_URL">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  </a>
+  <a href="YOUR_CODECHEF_URL">
+    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
+  </a>
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=maneeshmkp&icon=0&color=0)](https://visitcount.itsvg.in)
 
-  ## 💰 You can help me by Donating
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/maneeshmkp) 
+## 🚀 About Me
 
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+I'm a **Software Development Engineer** interested in building scalable software systems and AI-powered applications.
+
+My work spans **AI/LLM evaluation, backend engineering, full-stack development, cloud infrastructure, real-time systems, and problem solving**.
+
+Currently, I'm working as an **SDE Freelancer at Xelron**, where I build and curate benchmark datasets for evaluating Large Language Models on real-world financial reasoning using multi-document company reports.
+
+I design evaluation pipelines involving **analyst-style prompts, human-verified reference solutions, grading rubrics, and documented failure patterns**, while analyzing model outputs for calculation errors, reasoning failures, hallucinations, and document extraction issues.
+
+🎓 B.Tech in Information Technology — **IIIT Sonepat**
+📊 CGPA — **8.3 / 10**
+🤖 **50+ AI benchmark datasets**
+💻 **800+ DSA problems solved**
+🏆 LeetCode — **1669 Rating | Global Rank 2945**
+⭐ CodeChef — **1553 Rating | 2★ | Global Rank 42**
+
+---
+
+## 💼 Experience
+
+### 🔹 Software Development Engineer (SDE) Freelancer — Xelron
+
+`May 2026 – Present`
+
+* Built and curated **50+ benchmark datasets** for LLM evaluation focused on real-world financial reasoning.
+* Designed end-to-end evaluation pipelines with **prompts, reference solutions, grading rubrics, and failure analysis**.
+* Analyzed model outputs to identify **calculation errors, reasoning failures, hallucinations, and document extraction issues**.
+* Worked with **Cursor, Git, and standardized repositories** to deliver reproducible AI evaluation artifacts.
+
+### 🔹 Software Development Engineer (SDE) Intern — Xelron
+
+`Feb 2026 – May 2026`
+
+* Reviewed AI-generated coding solutions by analyzing execution traces and outputs.
+* Performed **bug detection, logic validation, and prompt review** to improve AI evaluation quality.
+
+---
+
+# ✈️ Featured Project
+
+## TravelPlan — AI-Powered Travel Management Platform
+
+> A full-stack travel platform combining AI, real-time communication, caching, background processing, cloud services, and scalable backend architecture.
+
+### ⚡ Key Highlights
+
+* 🚀 **40+ REST APIs**
+* 🤖 AI-powered itinerary generation
+* 🗺️ Google Maps & Places integration
+* 🌦️ Weather forecasting
+* ✈️ Flight tracking
+* 💰 Expense tracking
+* 📄 Document management
+* 🔔 Real-time notifications
+* 🔐 JWT Authentication
+* 🛡️ Role-Based Access Control
+* ⚡ Redis caching
+* 🔄 BullMQ background jobs
+* 📊 MongoDB aggregation pipelines
+* 📦 CSV/PDF export
+* 🐳 Docker
+* ☁️ AWS S3
+* 🔄 GitHub Actions & CI/CD
+* 🧪 Automated testing & monitoring
+* 🌐 Production deployment
+
+### 🏗️ Architecture & Engineering
+
+Built using a scalable **MERN architecture** with:
+
+`Clean Architecture`
+`SOLID Principles`
+`JWT`
+`RBAC`
+`Redis`
+`Socket.IO`
+`BullMQ`
+`MongoDB Aggregation`
+`Pagination`
+`Advanced Search & Filtering`
+
+The platform integrates **10+ third-party APIs and cloud services**, including Gemini/OpenAI, Google Maps, Google Places, OpenWeather, Google Calendar, AWS S3, Nodemailer, Swagger/OpenAPI, Docker, and GitHub Actions.
+
+---
+
+# 🛠️ Tech Stack
+
+### Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=cpp,python,java,js" />
+</p>
+
+`SQL`
+
+### Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,vite" />
+</p>
+
+### Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,docker" />
+</p>
+
+`REST APIs` • `Socket.IO` • `BullMQ` • `JWT` • `RBAC`
+
+### Databases & Cloud
+
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,redis,aws" />
+</p>
+
+`Prisma` • `AWS EC2` • `AWS S3` • `AWS IAM`
+
+### Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,linux,postman" />
+</p>
+
+`Cursor` • `CI/CD` • `GitHub Actions` • `Vercel` • `Render` • `Claude` • `LLM Integrations`
+
+---
+
+# 🤖 AI & LLM Engineering
+
+My current work focuses heavily on **reliable AI evaluation and LLM-powered systems**.
+
+### Areas
+
+* LLM Benchmarking
+* AI Evaluation
+* Prompt Design
+* Reference Solution Design
+* Grading Rubrics
+* Failure Analysis
+* Hallucination Detection
+* Reasoning Evaluation
+* Financial Reasoning
+* LLM Integrations
+
+Currently working with:
+
+`Gemini` • `OpenAI` • `Claude`
+
+---
+
+# 🧠 Problem Solving
+
+I enjoy solving algorithmic problems and improving my understanding of data structures, algorithms, and system-level problem solving.
+
+### Competitive Programming
+
+| Platform    | Achievement                                 |
+| ----------- | ------------------------------------------- |
+| 🟠 LeetCode | **1669 Rating**                             |
+| 🌎 LeetCode | **Global Rank 2945 — Biweekly Contest 159** |
+| 💻 LeetCode | **800+ Problems Solved**                    |
+| 🟤 CodeChef | **1553 Rating — 2★**                        |
+| 🌎 CodeChef | **Global Rank 42 — Starters 189**           |
+
+---
+
+# 🏆 Achievements
+
+🏅 **National Semi-Finalist — Flipkart GRiD 7.0**
+🏅 **National Semi-Finalist — Unstop Talent Park 2025**
+🏆 **LeetCode — 1669 Rating**
+⭐ **CodeChef — 1553 Rating / 2★**
+☁️ **AWS Cloud Foundations Certified**
+
+---
+
+# ☁️ Cloud & DevOps
+
+I work with cloud and deployment technologies including:
+
+`AWS EC2`
+`AWS S3`
+`AWS IAM`
+`Docker`
+`GitHub Actions`
+`CI/CD`
+`Render`
+`Vercel`
+
+---
+
+# 🎯 What I'm Interested In
+
+```text
+AI / LLM Systems
+       ↓
+Backend Engineering
+       ↓
+Distributed & Real-Time Systems
+       ↓
+Cloud Infrastructure
+       ↓
+Scalable Architectures
+       ↓
+Performance Engineering
+       ↓
+Algorithms & Problem Solving
+```
+
+I'm particularly interested in systems where **scalability, reliability, performance, and intelligent automation** come together.
+
+---
+
+# 📈 Current Focus
+
+🔭 Building AI-powered applications
+🤖 Exploring reliable LLM evaluation
+⚙️ Improving backend architecture and scalability
+☁️ Deepening cloud & infrastructure knowledge
+⚡ Learning distributed and real-time systems
+🧠 Advancing DSA & competitive programming
+🚀 Building production-oriented software
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" height="170" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+# 📫 Let's Connect
+
+I'm always open to discussing:
+
+**Software Engineering • AI/LLMs • Backend Systems • System Design • DSA • Cloud • Open Source • Interesting Projects**
+
+<p align="center">
+  <b>Building systems. Solving problems. Learning continuously. 🚀</b>
+</p>
